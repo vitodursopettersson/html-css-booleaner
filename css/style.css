@@ -4,6 +4,11 @@
     margin: 0   ;
 }
 
+main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 /* Banner Intestazione */
 
 .intestazione {
@@ -14,5 +19,40 @@
 }
 
 .logo {
- width: 200PX;
+    width: 200px;
+    margin-left: 10px;
+}
+
+/* Header Articolo */
+
+.informazioni-articolo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.titolo {
+    font-size: 40px;
+}
+
+.autore {
+    margin-top: 5px;
+    color: #8D8D8D;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.nome-autore {
+    color: #24AAE4;
+}
+
+.data {
+    margin-top: 2px;
+    color: #8D8D8D;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.didascalie-foto {
+    font-size: 16px;
+    margin-top: 2px;
 }
