@@ -56,3 +56,35 @@ main {
     font-size: 16px;
     margin-top: 2px;
 }
+
+/* Contenuto Articolo */
+
+.contenitore-articolo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lista-articolo {
+    margin-top: 20px;
+}
+
+.evidenziato {
+    background-color: #ffff00;
+}
+
+/* Tabella Articolo */
+
+.tabella-articolo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-spacing: 0px
+}
+
+.tabella-articolo thead {
+    background-color: #1FA9E4;
+    color: white;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #B1E5F2;
+}
