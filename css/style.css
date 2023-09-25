@@ -1,0 +1,18 @@
+/* Template */
+
+* {
+    margin: 0   ;
+}
+
+/* Banner Intestazione */
+
+.intestazione {
+    background-image: url(../img/pattern.png);
+    background-color: #4FA0FF;
+    width: 100%;
+    padding-top: 100px;
+}
+
+.logo {
+ width: 200PX;
+}
