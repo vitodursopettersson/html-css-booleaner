@@ -4,7 +4,7 @@
     margin: 0   ;
 }
 
-main {
+main, footer{
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -87,4 +87,41 @@ main {
 
 tbody tr:nth-child(odd){
     background-color: #B1E5F2;
+}
+
+/* Articoli consigliati */
+
+footer {
+    margin-bottom: 20px;
+}
+
+.titolo-footer {
+    color:#8D8D8D;
+}
+
+.anteprime-articoli-consigliati {
+    display: flex;
+}
+
+.anteprima-articolo {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 200px;
+    height: 150px;
+    background-size: contain;
+}
+
+.titolo-anteprima-articolo {
+    color: white;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#infografica {
+    background-image: url(../img/graph.jpg);
 }
