@@ -77,7 +77,12 @@ main, footer{
 .tabella-articolo {
     margin-top: 20px;
     margin-bottom: 20px;
-    border-spacing: 0px
+    border-spacing: 0px;
+    text-align: left;
+}
+
+.spazio-testo-tabella {
+    width: 50%;
 }
 
 .tabella-articolo thead {
