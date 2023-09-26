@@ -66,6 +66,8 @@ main, footer{
 
 .lista-articolo {
     margin-top: 20px;
+    list-style-position: inside;
+    padding-left: 0px;
 }
 
 .evidenziato {
