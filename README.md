@@ -1,6 +1,6 @@
 # Booleaner
 
-Esercitazione 25 settembre 2022
+Esercitazione 25 settembre 2023
 
 
 
